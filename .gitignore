@@ -2,6 +2,10 @@
 out/
 designPatterns.iml
 
+Factory/Factory.iml
 ThinKingInOO/ThinKingInOO.iml
 Strategy/Strategy.iml
 Iterator/Iterator.iml
+ChainOfResponsibility/ChainOfResponsibility.iml
+ChainOfResponsibility/Filter/Filter.iml
+ChainOfResponsibility/JavaWEBFilter/JavaWEBFilter.iml
